@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-ecommerce-app/static/css/main.b7fa2a55.css",
+    "main.js": "/React-ecommerce-app/static/js/main.3fb7d510.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/React-ecommerce-app/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/product10.png": "/React-ecommerce-app/static/media/product10.5cf07402a4a3aee66e1d.png",
+    "static/media/product1.png": "/React-ecommerce-app/static/media/product1.d2d46288b3f964c06841.png",
+    "static/media/product6.png": "/React-ecommerce-app/static/media/product6.13e09cbb4804c9190959.png",
+    "static/media/product8.png": "/React-ecommerce-app/static/media/product8.712eea95c502c9cdafa2.png",
+    "static/media/product5.png": "/React-ecommerce-app/static/media/product5.7d40cbdf8faccc476e00.png",
+    "static/media/product3.png": "/React-ecommerce-app/static/media/product3.cc141b8c1df4a8ca9180.png",
+    "static/media/product11.png": "/React-ecommerce-app/static/media/product11.e632016cd8c0a3f073ca.png",
+    "static/media/sneaker.png": "/React-ecommerce-app/static/media/sneaker.898a3f472f931263efaa.png",
+    "static/media/product7.png": "/React-ecommerce-app/static/media/product7.1cc87ac050a19ea744b2.png",
+    "static/media/product4.png": "/React-ecommerce-app/static/media/product4.30bd525967e89d1acf92.png",
+    "static/media/product9.png": "/React-ecommerce-app/static/media/product9.be6ae655d7286d1712c0.png",
+    "static/media/product2.png": "/React-ecommerce-app/static/media/product2.5f4b6da9e126aac0ec4f.png",
+    "static/media/nike-air-red.png": "/React-ecommerce-app/static/media/nike-air-red.30c67f98db94a72aee5b.png",
+    "static/media/hightlightimg.png": "/React-ecommerce-app/static/media/hightlightimg.276fe1da9cf510cc437e.png",
+    "static/media/hero.png": "/React-ecommerce-app/static/media/hero.595fcef1e71d84640c75.png",
+    "static/media/nike-adapt-bb-smart.png": "/React-ecommerce-app/static/media/nike-adapt-bb-smart.3ea6a0215b55e4b50817.png",
+    "static/media/product12.png": "/React-ecommerce-app/static/media/product12.2723ee864e6d23664a2b.png",
+    "static/media/nike-adapt-bb.png": "/React-ecommerce-app/static/media/nike-adapt-bb.52daf82e7f2d986c15dd.png",
+    "static/media/emptybag.png": "/React-ecommerce-app/static/media/emptybag.cace10dfcc6ced9dfb9b.png",
+    "static/media/logo.png": "/React-ecommerce-app/static/media/logo.aa3419b8b2c6dda5adad.png",
+    "index.html": "/React-ecommerce-app/index.html",
+    "main.b7fa2a55.css.map": "/React-ecommerce-app/static/css/main.b7fa2a55.css.map",
+    "main.3fb7d510.js.map": "/React-ecommerce-app/static/js/main.3fb7d510.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/React-ecommerce-app/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fa2a55.css",
+    "static/js/main.3fb7d510.js"
+  ]
+}
